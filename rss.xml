@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Betting Blowout]]></title>
         <description><![CDATA[Betting Blowout]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.bettingblowout.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 17:13:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 17:33:42 GMT</lastBuildDate>
+        <atom:link href="http://www.bettingblowout.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e78389fd-d8c7-4433-a8c7-a6f4f563cdd5.jpg">]]></description>
+            <link>http://www.bettingblowout.com/f95178fe-82e8-4ad4-8d0d-36b239172cb8/index.html</link>
+            <guid isPermaLink="false">f95178fe-82e8-4ad4-8d0d-36b239172cb8</guid>
+            <pubDate>Wed, 28 Oct 2015 17:32:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>http://www.bettingblowout.com/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">dff8dcb2-59d1-417d-9516-ef2510ff170a</guid>
             <pubDate>Wed, 28 Oct 2015 17:13:48 GMT</pubDate>
         </item>
