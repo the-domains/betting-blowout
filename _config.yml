@@ -1,0 +1,23 @@
+name: Betting Blowout
+favicon: null
+layout_spectrum: 0.8753984007053077
+typography_spectrum: 0.9589733795728534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5973719598259777
+  lightness: 0.3968074615113437
+  saturation: 0.45203524408861995
+  rhythmicContrast: 0.32022994267754257
+purpose: []
